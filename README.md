@@ -11,8 +11,7 @@ python latest version
 
 commands for installing face-recognition project
 
-**pip install face-recognition
-
+**pip install face-recognition**
 
 issues faced during installing 
 https://stackoverflow.com/a/71220610/15495975
